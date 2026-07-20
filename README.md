@@ -18,7 +18,7 @@ from the terminal, VS Code, or the desktop app.
 ### CLI
 
 ```sh
-npm install -g @inaiv-studio/cli
+npm install -g @inaiv.ai/cli
 inaiv auth login   # sign in with your browser
 inaiv              # start coding
 ```
